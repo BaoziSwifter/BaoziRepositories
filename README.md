@@ -33,7 +33,8 @@ Some repositories I need to study and to ues
     [网站地址](https://greyireland.gitbook.io/algorithm-pattern/)
 - [汇总互联网公司技术岗考察Leetcode题目的热度](https://github.com/afatcoder/LeetcodeTop)
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
-
+- [labuladong 的算法小抄](https://github.com/labuladong/fucking-algorithm)
+- 
 ## iOS面试
 - [2020-逻辑教育iOS面试题集合](https://github.com/LGCooci/KCiOSGrocery)
 - [2019年iOS面试宝典](https://github.com/JustinInCoding/iOS_Interview)
@@ -150,6 +151,7 @@ Some repositories I need to study and to ues
 - [python 面试](https://github.com/taizilongxu/interview_python)
 - [python常用小公举](https://github.com/injetlee/Python)
 ## Go学习
+- [Go语言圣经中文版](https://github.com/golang-china/gopl-zh)
 - [Go语言高级编程](https://github.com/chai2010/advanced-go-programming-book)
 - [Go 编程基础](https://github.com/unknwon/go-fundamental-programming)
 - [learngo](https://github.com/inancgumus/learngo) 大量的go学习和测试实例
